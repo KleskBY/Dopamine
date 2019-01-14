@@ -13,5 +13,11 @@ My Changes:<br>
 -Aim on key<br>
 -Small fixes<br>
 
-Changes by rushensky (rly cool modest guy):
--
+<p>Changes by rushensky:</p><br>
+- 2 new ESP styles
+- Some Kreedz fixes
+- Crosshair just like in CS:GO
+- Removed trash
+- Fix Psilent Automaticaly Fire
+
+
