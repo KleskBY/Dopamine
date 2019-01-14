@@ -4,14 +4,14 @@ Config locathion: %AppData%\Dopamine.ini<br>
 Credits: _xvi, kleskby, rushensky.
 
 <b>My Changes:</b><br>
--Removed site auth<br>
--New menu<br>
--Fov Chnager<br>
--3 Bhop styles<br>
--2 DDrun styles<br>
--Worste autostrafe<br>
--Aim on key<br>
--Small fixes<br>
+- Removed site auth<br>
+- New menu<br>
+- Fov Chnager<br>
+- 3 Bhop styles<br>
+- 2 DDrun styles<br>
+- Worste autostrafe<br>
+- Aim on key<br>
+- Small fixes<br>
 
 <b>Changes by rushensky:</b>
 - 2 new ESP styles<br>
