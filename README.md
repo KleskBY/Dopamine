@@ -1,6 +1,7 @@
 # Dopamine
 CS 1.6 Multihack. Attemp to develop and improve Nor-Adrenaline.<br>
 Config locathion: %AppData%\Dopamine.ini<br>
+Credits: _xvi, kleskby, rushensky.
 
 My Changes:<br>
 -Removed site auth<br>
