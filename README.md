@@ -20,5 +20,5 @@ Credits: _xvi, kleskby, rushensky.
 - Removed trash<br>
 - Fix Psilent Automaticaly Fire<br>
 
-![alt text](https://pp.userapi.com/c849216/v849216318/cd027/fmiiBUy9pm4.jpg)
+<center>![alt text](https://pp.userapi.com/c849216/v849216318/cd027/fmiiBUy9pm4.jpg)</center>
 ![alt text](https://pp.userapi.com/c845120/v845120252/140365/1wflGXWp0CI.jpg)
