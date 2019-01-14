@@ -13,7 +13,7 @@ Credits: _xvi, kleskby, rushensky.
 -Aim on key<br>
 -Small fixes<br>
 
-<p><b>Changes by rushensky:</b></p>
+<b>Changes by rushensky:</b>
 - 2 new ESP styles<br>
 - Some Kreedz fixes<br>
 - Crosshair just like in CS:GO<br>
